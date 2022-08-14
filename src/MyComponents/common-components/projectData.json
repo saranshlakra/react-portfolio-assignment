@@ -1,0 +1,110 @@
+[
+  {
+    "id": 4,
+    "title": "A&S Ink Master Website",
+    "url": "https://as-inkmaster.000webhostapp.com/",
+    "slug": "rerum-molestiae-ut-rerum-sit",
+    "image": null,
+    "content": "I designed this website for a start-up company, called A&S Ink Master",
+    "type_id": 2,
+    "user_id": 1,
+    "created_at": "2022-08-12T05:13:07.000000Z",
+    "updated_at": "2022-08-13T14:31:27.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Clemmie",
+      "last": "Cronin",
+      "email": "oconner.michelle@example.org",
+      "email_verified_at": "2022-08-12T05:13:07.000000Z",
+      "created_at": "2022-08-12T05:13:07.000000Z",
+      "updated_at": "2022-08-12T05:13:07.000000Z"
+    },
+    "type": {
+      "id": 2,
+      "title": "Animi quis beatae dolorum rerum et praesentium.",
+      "created_at": "2022-08-12T05:13:07.000000Z",
+      "updated_at": "2022-08-12T05:13:07.000000Z"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Digital Portfolio",
+    "url": "nimsphotography.000webhostapp.com/",
+    "slug": "s",
+    "image": null,
+    "content": "Check out this super cool digital portfolio of a photographer",
+    "type_id": 1,
+    "user_id": 1,
+    "created_at": "2022-08-13T14:33:54.000000Z",
+    "updated_at": "2022-08-13T14:33:54.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Clemmie",
+      "last": "Cronin",
+      "email": "oconner.michelle@example.org",
+      "email_verified_at": "2022-08-12T05:13:07.000000Z",
+      "created_at": "2022-08-12T05:13:07.000000Z",
+      "updated_at": "2022-08-12T05:13:07.000000Z"
+    },
+    "type": {
+      "id": 1,
+      "title": "Qui ut assumenda sed et.",
+      "created_at": "2022-08-12T05:13:07.000000Z",
+      "updated_at": "2022-08-12T05:13:07.000000Z"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Budget App",
+    "url": "saranshlakra.github.io/Budget-App-Website.github.io/",
+    "slug": "p",
+    "image": null,
+    "content": "A budget calculation app. Try it! just click on the eye button",
+    "type_id": 2,
+    "user_id": 1,
+    "created_at": "2022-08-13T14:35:02.000000Z",
+    "updated_at": "2022-08-13T14:35:02.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Clemmie",
+      "last": "Cronin",
+      "email": "oconner.michelle@example.org",
+      "email_verified_at": "2022-08-12T05:13:07.000000Z",
+      "created_at": "2022-08-12T05:13:07.000000Z",
+      "updated_at": "2022-08-12T05:13:07.000000Z"
+    },
+    "type": {
+      "id": 2,
+      "title": "Animi quis beatae dolorum rerum et praesentium.",
+      "created_at": "2022-08-12T05:13:07.000000Z",
+      "updated_at": "2022-08-12T05:13:07.000000Z"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Exam App",
+    "url": "https://saranshlakra.github.io/Exam-App.github.io/",
+    "slug": "E-A",
+    "image": null,
+    "content": "This is an exam app. Let's do some GA questions. Hit the eye button",
+    "type_id": 1,
+    "user_id": 1,
+    "created_at": "2022-08-13T14:35:50.000000Z",
+    "updated_at": "2022-08-13T14:35:50.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Clemmie",
+      "last": "Cronin",
+      "email": "oconner.michelle@example.org",
+      "email_verified_at": "2022-08-12T05:13:07.000000Z",
+      "created_at": "2022-08-12T05:13:07.000000Z",
+      "updated_at": "2022-08-12T05:13:07.000000Z"
+    },
+    "type": {
+      "id": 1,
+      "title": "Qui ut assumenda sed et.",
+      "created_at": "2022-08-12T05:13:07.000000Z",
+      "updated_at": "2022-08-12T05:13:07.000000Z"
+    }
+  }
+]

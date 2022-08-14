@@ -1,0 +1,46 @@
+[
+  {
+    "id": 7,
+    "image": null,
+    "company_name": "EP Electronic Paradise Pvt Ltd",
+    "position": "Technical Support Engineer",
+    "job_role": "Configuring the operating system, other software, and website maintenance Built multiple landing pages collaborating with the sales team using Html, Css3, Ecma script.",
+    "start_date": "2021-01-06",
+    "end_date": "2021-12-30",
+    "created_at": "2022-08-12T05:13:07.000000Z",
+    "updated_at": "2022-08-12T22:08:41.000000Z"
+  },
+  {
+    "id": 11,
+    "image": null,
+    "company_name": "Freelance",
+    "position": "Drone Pilot Frontend Dev",
+    "job_role": "Worked with Delhi Police in Surveillance using self-designed drone during Covid-19 lockdown. Repairing and troubleshooting Designed web-based portfolios",
+    "start_date": "2019-01-12",
+    "end_date": "2022-08-12",
+    "created_at": "2022-08-12T22:16:51.000000Z",
+    "updated_at": "2022-08-12T22:16:51.000000Z"
+  },
+  {
+    "id": 9,
+    "image": null,
+    "company_name": "Senpiper Technologies India Pvt. Ltd.",
+    "position": "Frontend Developer",
+    "job_role": "Primarily worked with technologies like HTML and CSS Helped in developing various modules like authentication, login, alert module and the main landing page",
+    "start_date": "2021-04-01",
+    "end_date": "2021-01-01",
+    "created_at": "2022-08-12T05:13:07.000000Z",
+    "updated_at": "2022-08-12T22:13:47.000000Z"
+  },
+  {
+    "id": 10,
+    "image": null,
+    "company_name": "Unwind Life",
+    "position": "Technical Assistant",
+    "job_role": "Designed and developed multiple landing pages for different events using HTML, CSS, ECMA 6 and jQuery Developed contact form for the company website using HTML, CSS, javaScript and PHP",
+    "start_date": "2017-05-10",
+    "end_date": "2019-10-30",
+    "created_at": "2022-08-12T05:13:07.000000Z",
+    "updated_at": "2022-08-12T22:15:23.000000Z"
+  }
+]
